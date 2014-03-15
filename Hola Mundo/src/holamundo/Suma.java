@@ -1,5 +1,6 @@
 package holamundo;
 
+// Primer clase
 public class Suma {
 
 	private int a;  
